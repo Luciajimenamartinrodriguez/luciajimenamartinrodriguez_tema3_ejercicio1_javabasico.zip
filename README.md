@@ -1,1 +1,15 @@
-# luciajimenamartinrodriguez_tema3_ejercicio1_javabasico.zip
+package PROJECTS;
+
+public class PROJECT3BUCLE {
+
+    public static void main(String[] args) {
+        String[] nombres = {"Lucía", "Esteban", "farriña", "soy", "guay"};
+
+        for(String nombre : nombres){
+            System.out.println(nombre);
+
+        }
+
+      
+    }
+}
